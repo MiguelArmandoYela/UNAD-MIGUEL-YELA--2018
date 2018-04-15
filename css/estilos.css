@@ -254,6 +254,15 @@ aside#img3{
 }
 
 footer h3{
-	
 
 }
+
+ div.footerpie{
+ 	position: relative;
+	background: #070B19;
+	color: #FFFFFF;
+	top: 550px; 
+	font-size: 12px;
+    padding: 50px;  
+
+	}
